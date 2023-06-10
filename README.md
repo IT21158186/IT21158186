@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋, I'm Deneth Pinsara</h1>
 <h3 align="center">Full Stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://twitter.com/@denethofficial😎" target="blank"><img src="https://img.shields.io/twitter/follow/@denethofficial😎?logo=twitter&style=for-the-badge" alt="@denethofficial😎" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@DenethOfficial" target="blank"><img src="https://img.shields.io/twitter/follow/@DenethOfficial?logo=twitter&style=for-the-badge" alt="@DenethOfficial" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Both, Web and Mobile Applications**
 
