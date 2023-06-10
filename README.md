@@ -1,6 +1,10 @@
 <h1 align="center">Hello!👋, I'm Deneth Pinsara</h1>
 <h3 align="center">Full Stack developer from Sri Lanka</h3>
 
+
+   <a align="center"> <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" autoplay></a>
+<br>
+
 <p align="left"> <a href="https://twitter.com/@DenethOfficial" target="blank"><img src="https://img.shields.io/twitter/follow/@DenethOfficial?logo=twitter&style=for-the-badge" alt="@DenethOfficial" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Both, Web and Mobile Applications**
