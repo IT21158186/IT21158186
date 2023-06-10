@@ -70,8 +70,8 @@ Student Name : Pinsara A.R.D.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
@@ -92,6 +92,6 @@ ui, ux, and design in general.
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://bmc.link/denethPinsara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## Snake eating my contributions graph
+<!-- ## Snake eating my contributions graph -->
 
 ![snake gif](https://github.com/IT21158186/IT21158186/blob/output/github-contribution-grid-snake.gif)
