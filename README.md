@@ -79,8 +79,8 @@ Student Name : Pinsara A.R.D.
 
   <center>
   <b>Note:</b> I always really enjoying when, learning things that, new to me. So, languages and
-frameworks like React and React Native, as well as my Degree. And also enjoy wireframing,
-ui, ux, and design in general.
+frameworks like React and Golang, as well as my Degree. And also enjoy wireframing,
+ui, ux, and design in general.(Prefered in Frontend Developing)
 </center>
 
 <br/>
