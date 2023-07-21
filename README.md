@@ -43,7 +43,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a **Freelanser**
+- 🔭 I’m currently seeking for an **Internship**
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specialising IT**
 
