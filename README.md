@@ -45,7 +45,7 @@
 
 - 🔭 I’m currently seeking for an **Internship**
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specialising IT**
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specializing IT**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
