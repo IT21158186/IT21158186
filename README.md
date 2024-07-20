@@ -97,21 +97,16 @@ Student Name : Pinsara A.R.D.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=dark&hide_border=true)
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  <br/>
+<!-- GitHub Streak -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=dark&hide_border=true)
 
-# 📊 My Stack Overflow Stats:
-
- ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=26445227)
-  <br/>
-
-  <center>
-  <b>Note:</b> I always really enjoying when, learning things that, new to me. So, languages and
-frameworks like React and Golang, as well as my Degree. And also enjoy wireframing,
-ui, ux, and design in general.(Prefered in Frontend Developing)
-</center>
+<!-- Top Languages -->
+<a href="https://github.com/IT21158186/github-readme-stats">
+  <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&langs_count=20&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
+</a>
 
 <br/>
 
