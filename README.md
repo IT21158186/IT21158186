@@ -5,10 +5,10 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Deneth%20Pinsara;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Job%20Seeker&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Deneth%20Pinsara;Web%20Developer👨🏻‍💻;Web%20Designer💻;Tech%20Enthusiast🚀;SLIIT%20Undergraduate%20👨‍🎓;Job%20Seeker&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
 </p>
 
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka and am also a freelanser. I'm learning from open-source communities and I love, how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">I'm a passionate Web Developer from Sri Lanka and am also a freelanser. I'm learning from open-source communities and I love, how collaboration and knowledge sharing happened through open-source.</h3>
 
 <br/>
 <br/>
@@ -71,13 +71,12 @@
 ⡄⠀⠁⠀⡼⢁⡆⠀⠀⠀⠀⠀⢸⣿⣿⣧⣸⠁⠀⣹⠀⠀⠀⠀⠀⣼⡇⣿⡓⠢⢼⠈⣧⢍⣉⣺⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀
 ⢨⠀⠀⣖⢃⡜⠀⢰⠀⠀⠀⠀⠈⣿⡏⠀⠑⠀⣰⡟⠀⠀⠀⠀⢰⡟⠀⣿⠮⣅⣺⠀⢻⡒⠒⠦⡇⠀⠀⠀⣆⠀⠀⠀⠀⠀⠀⠀⠘⡀
 
-- 🔭 I’m currently seeking for an **Internship**
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specializing IT**
+- 🔭 I’m currently a **Job Seeker**
+
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology - Specializing IT**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](http://"")** -->
 
 - 📫 How to reach me **deneth.official1@gmail.com**
 
