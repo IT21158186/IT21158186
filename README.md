@@ -38,7 +38,8 @@
   <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/IT21158186?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
-
+<br />
+## 🥇 Badges I Achieved
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
 
 ## Portfolio🌐 : [it21158186.github.io](https://it21158186.github.io/)
