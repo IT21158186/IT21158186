@@ -117,7 +117,7 @@ Student Name : Pinsara A.R.D.
 # 📊 My Stack Overflow Stats:
 
 <div style="background-color: #141321; padding: 10px; border-radius: 8px; display: inline-block;">
-  <img src="https://github-stackoverflow-readme.vercel.app/?userId=26445227" alt="Stack Overflow Stats" style="width: 100%; background-color: inherit; border: none;" />
+  <img src="https://github-stackoverflow-readme.vercel.app/?userId=26445227" alt="Stack Overflow Stats" style="width: 50%; background-color: inherit; border: none;" />
 </div>
 
 
