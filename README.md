@@ -99,20 +99,29 @@ Student Name : Pinsara A.R.D.
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
 
 <br/>
+# 📊 My GitHub Stats:
 
 # 📊 My GitHub Stats:
 
-<!-- GitHub Stats and GitHub Streak side by side -->
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT21158186&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 10px;"/>
- <!-- Top Languages -->
-<a href="https://github.com/IT21158186/github-readme-stats">
-  <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true" />
-</a>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Stats and GitHub Streak layout -->
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  
+  <!-- Top Languages in the first row -->
+  <a href="https://github.com/IT21158186/github-readme-stats">
+    <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true" style="max-width: 100%; height: auto;" />
+  </a>
+
+  <!-- GitHub Stats and GitHub Streak in the second row, side by side -->
+  <div style="display: flex; justify-content: space-between; gap: 20px; width: 100%; max-width: 900px;">
+    
+    <!-- GitHub Stats on the left -->
+    <img src="https://github-readme-stats.vercel.app/api?username=IT21158186&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1; max-width: 100%; height: auto;" />
+    
+    <!-- GitHub Streak on the right -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=radical&hide_border=true" alt="GitHub Streak" style="flex: 1; max-width: 100%; height: auto;" />
+  </div>
+  
 </div>
-
-
 
 <br/>
 
