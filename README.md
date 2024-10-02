@@ -105,13 +105,14 @@ Student Name : Pinsara A.R.D.
 <!-- GitHub Stats and GitHub Streak side by side -->
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=IT21158186&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<!-- Top Languages -->
+ <!-- Top Languages -->
 <a href="https://github.com/IT21158186/github-readme-stats">
   <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true" />
 </a>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
 
 <br/>
 
