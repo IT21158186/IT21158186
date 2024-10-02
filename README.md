@@ -40,6 +40,7 @@
 </p>
 <br />
 ## 🥇 Badges I Achieved
+
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
 
 ## Portfolio🌐 : [it21158186.github.io](https://it21158186.github.io/)
