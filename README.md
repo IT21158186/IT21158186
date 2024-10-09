@@ -94,13 +94,26 @@ Student Name : Pinsara A.R.D.
 
 </p>
 
-# 🥇 Badges I Achieved
+## 🥇 Badges I Achieved
+---
 
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
-
 <br/>
 
-# 📊 My GitHub Stats:
+---
+
+## 🏆 Awards I Achieved
+---
+<p align="center" width="100%">
+ 
+<a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/earner/earned/badge/ee944d91-6f44-4bb6-bc02-7ac62ebee8eb">
+  <img  width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
+</a>
+</p>
+
+---
+
+## 📊 My GitHub Stats:
 
 <!-- GitHub Stats and GitHub Streak side by side -->
 <div style="display: flex; justify-content: space-between;">
